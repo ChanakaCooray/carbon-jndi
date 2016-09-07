@@ -30,6 +30,7 @@
 
     <modules>
         <!--<module>test-artifacts</module>-->
+        <module>jndi-test-distribution</module>
         <module>osgi-tests</module>
     </modules>
 
